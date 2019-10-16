@@ -1,3 +1,5 @@
+# Go Ahead click the pencil (edit icon above on right) - you will find the syntaxes
+
 Normal Text
 ***
 
